@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameVariables
+comment0.text=\r\n\ Game\ object\r\n\r\n\ @Justin\ Lee\r\n\ @version\ 1\r\n
+comment1.params=w
+comment1.target=GameVariables(Word)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment2.params=l
+comment2.target=void\ addLetter(java.lang.String)
+comment2.text=\r\n\ Adds\ a\ letter\ to\ the\ arraylist\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getGuessed()
+comment4.params=
+comment4.target=Word\ getWord()
+numComments=5

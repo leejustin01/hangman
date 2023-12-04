@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordList
+comment0.text=\r\n\ WordList\ Object\ that\ holds\ all\ the\ words\ from\ the\ input\ file\r\n\r\n\ @author\ Justin\ Lee\r\n\ @version\ 1\r\n
+comment1.params=fileName
+comment1.target=WordList(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordList\r\n
+comment2.params=difficulty
+comment2.target=Word\ selectWord(java.lang.String)
+comment2.text=\r\n\ Method\ that\ selects\ the\ word\r\n
+numComments=3

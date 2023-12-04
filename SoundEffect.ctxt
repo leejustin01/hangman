@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SoundEffect
+comment0.text=\r\n\ Plays\ sound\ effect\r\n\r\n\ Justin\ Lee\r\n\ @version\ 1\r\n
+comment1.params=musicLocation
+comment1.target=void\ playSound(java.lang.String)
+numComments=2

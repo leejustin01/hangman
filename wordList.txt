@@ -1,0 +1,100 @@
+arabic,Language
+albanian,Language
+bengali,Language
+bulgarian,Language
+cantonese,Language
+chinese,Language
+danish,Language
+dutch,Language
+english,Language
+estonian,Language
+french,Language
+filipino,Language
+german,Language
+greek,Language
+hindi,Language
+hebrew,Language
+irish,Language
+italian,Language
+japanese,Language
+korean,Language
+lithuanian,Language
+mandarin,Language
+mongolian,Language
+norwegian,Language
+portuguese,Language
+russian,Language
+romanian,Language
+spanish,Language
+swedish,Language
+turkish,Language
+thai,Language
+ukrainian,Language
+vietnamese,Language
+afghanistan,Country
+argentina,Country
+brazil,Country
+bolivia,Country
+china,Country
+chile,Country
+dominican republic,Country
+ethiopia,Country
+ecuador,Country
+finland,Country
+france,Country
+greece,Country
+germany,Country
+haiti,Country
+hungary,Country
+iran,Country
+israel,Country
+india,Country
+italy,Country
+japan,Country
+jamaica,Country
+north korea,Country
+south korea,Country
+lebanon,Country
+lithuania,Country
+madagascar,Country
+morocco,Country
+mexico,Country
+nigeria,Country
+norway,Country
+pakistan,Country
+philippines,Country
+papua new guinea,Country
+romania,Country
+russia,Country
+somalia,Country
+sweden,Country
+south africa,Country
+thailand,Country
+turkey,Country
+uganda,Country
+ukraine,Country
+united states,Country
+vietnam,Country
+vatican city,Country
+vietnam,Country
+yemen,Country
+arachnid,Animal
+alligator,Animal
+aardvark,Animal
+baboon,Animal
+bearded dragon,Animal
+bobcat,Animal
+california sea lion,Animal
+cobra,Animal
+chipmunk,Animal
+chihuahua,Animal
+elephant,Animal
+firefly,Animal
+gorilla,Animal
+peregrine falcon,Animal
+ocelot,Animal
+monkey,Animal
+monarch butterfly,Animal
+panda,Animal
+rabbit,Animal
+salamander,Animal

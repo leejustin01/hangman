@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hangman
+comment0.text=\r\n\ Hangman\ picture\ object\ \r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hangman()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hangman\r\n
+comment2.params=
+comment2.target=boolean\ updateImage()
+comment2.text=\r\n\ Changes\ image\ to\ the\ next\ image\ in\ the\ list\r\n\ Returns\ false\ if\ the\ image\ is\ the\ last\ one\ in\ list\r\n
+comment3.params=
+comment3.target=javax.swing.JLabel\ getImage()
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\r\n\ Word\ Object\ that\ the\ user\ will\ try\ to\ guess\r\n\r\n\ @author\ Justin\ Lee\r\n\ @version\ 1\r\n
+comment1.params=w\ c\ d
+comment1.target=Word(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Word\ Object\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDifficulty()
+comment2.text=\r\n\ Getter\ Method\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment3.text=\r\n\ Getter\ Method\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCategory()
+comment4.text=\r\n\ Getter\ Method\r\n
+comment5.params=letter
+comment5.target=boolean\ checkCorrect(java.lang.String)
+comment5.text=\r\n\ Method\ that\ checks\ if\ a\ guessed\ letter\ is\ correct\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Method\ that\ returns\ out\ the\ guessed\ letters\ and\ underscores\r\n
+comment7.params=
+comment7.target=boolean\ checkWin()
+comment7.text=\r\n\ Method\ that\ checks\ if\ the\ user\ guessed\ all\ the\ letters\ correctly\r\n
+numComments=8
